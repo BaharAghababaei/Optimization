@@ -4,8 +4,8 @@ Welcome to my Optimization repository. This repository includes my MSc thesis an
 
 🔗 View Project
 
-📄 **Amazon Inventory Optimization Thesis** → [View PDF](https://bahar2023.github.io/Optimization/Amazon_Inventory_management_optimization.pdf)
+📄 **Amazon Inventory Optimization Thesis** → [View PDF](https://bahar2023.github.io/Optimization/Amazon_Inventory_management_optimization.pdf)  
 Detailed MSc thesis document including theoretical explanations, methodology, and numerical results. This research was implemented on UBC's ARC Sockeye high-performance computing cluster.
 
-🐍 **Python Implementation (Jupyter Notebook)** → [View Notebook]()
+🐍 **Python Implementation (Jupyter Notebook)** → [View Notebook]()  
 Python notebook demonstrating the workflow of the developed optimization algorithm. (Note: The original dataset is large; therefore, a smaller, representative dataset was used for this implementation.)
