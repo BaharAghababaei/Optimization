@@ -6,7 +6,7 @@ Welcome to my Optimization repository. This repository includes my MSc thesis fr
 📄 **Amazon Inventory Management** → [View PDF](https://baharaghababaei.github.io/Optimization/Amazon_Inventory_management_optimization.pdf)  
 Detailed MSc thesis document including theoretical explanations, methodology, and numerical results. This research was implemented on UBC's ARC Sockeye high-performance computing cluster.
 
-🐍 **Python Implementation (Jupyter Notebook)** → [View Notebook](https://github.com/baharaghababaei/Optimization/docs/code/Algorithm.ipynb)  
+🐍 **Python Implementation (Jupyter Notebook)** → [View Notebook](https://github.com/baharaghababaei/Optimization/blob/main/code/Algorithm.ipynb)  
 Python notebook demonstrating the workflow of the developed optimization algorithm. (Note: The original dataset is large; therefore, a smaller, representative dataset was used for this implementation.)
 
 🔗 **Healthcare Scarce Resources Optimization**
